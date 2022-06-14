@@ -1,0 +1,4 @@
+#Tue Jun 14 11:55:18 IST 2022
+base.0=/Users/mac/Desktop/Bittu/Sample proj & desktop data/Temprarory/testservice/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

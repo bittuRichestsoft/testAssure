@@ -1,0 +1,4 @@
+#Tue Jun 14 12:15:16 IST 2022
+base.0=/Users/mac/Desktop/Bittu/Sample proj & desktop data/Temprarory/testservice/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
